@@ -12,7 +12,7 @@ function App() {
       <h1>Components App</h1>
       <h2>Olá: {aluno}</h2>
       <button onClick={() => handleChangeName("Ana Borges")}>
-        A que eu mais amo?
+        A que eu mais amo
       </button>
     </div>
   );
